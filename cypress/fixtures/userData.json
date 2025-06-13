@@ -1,0 +1,95 @@
+{
+    "users": [
+
+  {
+    "title": "Dr.",
+    "email": "emma.watson@example.com",
+    "firstName": "Emma",
+    "lastName": "Watson",
+    "phone": "+1-202-555-0123",
+    "country": "United States of America",
+    "dob": "1990-04-15"
+  },
+  {
+    "title": "Mr.",
+    "email": "john.doe@example.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "phone": "+44-20-7946-0958",
+    "country": "United Kingdom (not furthen defined)",
+    "dob": "1985-09-23"
+  },
+  {
+    "title": "Mrs.",
+    "email": "anita.patel@example.in",
+    "firstName": "Anita",
+    "lastName": "Patel",
+    "phone": "+91-98230-12345",
+    "country": "India",
+    "dob": "1979-11-02"
+  },
+  {
+    "title": "Dr.",
+    "email": "lars.jensen@example.dk",
+    "firstName": "Lars",
+    "lastName": "Jensen",
+    "phone": "+45-2345-6789",
+    "country": "Denmark",
+    "dob": "1968-05-30"
+  },
+  {
+    "title": "Mr.",
+    "email": "kevin.miller@example.ca",
+    "firstName": "Kevin",
+    "lastName": "Miller",
+    "phone": "+1-416-555-0199",
+    "country": "Canada",
+    "dob": "1992-12-08"
+  },
+  {
+    "title": "Ms.",
+    "email": "sofia.fernandez@example.mx",
+    "firstName": "Sofia",
+    "lastName": "Fernandez",
+    "phone": "+52-55-1234-5678",
+    "country": "Mexico",
+    "dob": "1988-07-19"
+  },
+  {
+    "title": "Mr.",
+    "email": "li.wei@example.cn",
+    "firstName": "Li",
+    "lastName": "Wei",
+    "phone": "+86-10-6552-9988",
+    "country": "China",
+    "dob": "1995-02-28"
+  },
+  {
+    "title": "Mrs.",
+    "email": "helga.schmidt@example.de",
+    "firstName": "Helga",
+    "lastName": "Schmidt",
+    "phone": "+49-89-123456",
+    "country": "Germany",
+    "dob": "1975-08-14"
+  },
+  {
+    "title": "Mr.",
+    "email": "jacob.brown@example.au",
+    "firstName": "Jacob",
+    "lastName": "Brown",
+    "phone": "+61-2-9374-4000",
+    "country": "Australia",
+    "dob": "1982-01-05"
+  },
+  {
+    "title": "Ms.",
+    "email": "amelie.dubois@example.fr",
+    "firstName": "Amelie",
+    "lastName": "Dubois",
+    "phone": "+33-1-44-55-66-77",
+    "country": "France",
+    "dob": "1993-10-22"
+  }
+]
+}
